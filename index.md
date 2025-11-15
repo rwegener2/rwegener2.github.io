@@ -16,4 +16,4 @@ I could talk for hours about: geospatial cloud data formats, methods for underst
 
 # Get in touch
 **Github:** [rwegener2](https://github.com/rwegener2) -- 
-**LinkedIn**[Rachel Wegener](https://www.linkedin.com/in/rachelwegener/)
+**LinkedIn:** [Rachel Wegener](https://www.linkedin.com/in/rachelwegener/)
