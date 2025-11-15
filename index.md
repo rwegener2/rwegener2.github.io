@@ -2,16 +2,18 @@
 
 # About Me
 
-I am a software engineer and graduate researcher at the intersection of earth science and cloud technology. My background is working with geospatial data at scale, with a particular focus on satellite data. I gained this experience in my role at Maxar and through a variety of NASA collaborations. My time at Development Seed built a lasting belief in the power of Open Source Software and Open Science through collaborations with NASA and the Pangeo community. User engagement and collaborative development are core to my problem solving style.
+I am an open-source first software engineer with over 5 years of experience making data meaningful for people. I have worked on data pipelines for NASA and contributed to open source projects. Trained as a climate scientist, I have substantial expertise in the nuances of actionable earth science data for scientists and citizens. I typically build on the cloud ☁️.
 
-I am currently in the University of Maryland Department of Atmospheric and Oceanic science where I continue to blend my skills in science and software while developing my interest in cross-organizational applied science. I am also a developer on the icepyx software package and I coordinate coding infrastructure and instruction for the NASA SARP summer internship. 
+I believe that any successful project is built on both technical infrastructure and human infrastructure, and each is a different type of puzzle to navigate. As a data engineer I have handled terabytes of satellite imagery and grappled with the challenges of delivering data to multiple unique user groups.
+
+To my projects I bring a high level of ownership, a deep excitement for learning new things, and a desire to keep deepening my technical communication skills. Design for users should always be user-centered.
+
+I could talk for hours about: geospatial cloud data formats, methods for understanding user needs, and (after the work is done for the day) my latest (spoken) language learning excitement.
 
 
 # Curriculum Vitae
 [View](./assets/Wegener_CV.pdf)
 
 # Get in touch
-**Email:** rwegener@umd.edu -- 
 **Github:** [rwegener2](https://github.com/rwegener2) -- 
-**Twitter:** [@rwegener2](https://twitter.com/rwegener2) -- 
 **LinkedIn**[Rachel Wegener](https://www.linkedin.com/in/rachelwegener/)
