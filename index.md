@@ -12,7 +12,7 @@ I could talk for hours about: geospatial cloud data formats, methods for underst
 
 
 # Curriculum Vitae
-[View](./assets/Wegener_CV.pdf)
+[View](./assets/Wegener_CV_Nov-2025.pdf)
 
 # Get in touch
 **Github:** [rwegener2](https://github.com/rwegener2) -- 
