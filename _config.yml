@@ -1,4 +1,47 @@
-theme: jekyll-theme-minimal
+# site settings
+title: Rachel
+subtitle: Wegener
+email:
+description: Geospatial software engineer specializing in earth data. <br /> Open source contributor
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+city: Vancouver
+state: BC
+country: Canada
+phone: 
 
-title: Rachel Wegener
-description: -- -- -- -- -- 
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/rwegener2
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/rachelwegener/
+  Twitter: 
+  # orcid and google scholar not working
+  Orcid: https://orcid.org/0000-0001-6092-7703
+  Google-scholar: https://scholar.google.com/citations?user=hPx0s4UAAAAJ&hl=en
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
+- "*-template.md"
+- vendor
