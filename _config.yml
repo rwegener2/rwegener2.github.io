@@ -4,7 +4,7 @@ subtitle: Wegener
 email:
 description: Geospatial software engineer specializing in earth data <br /> Open source contributor
 repository: rwegener2/rwegener2.github.io
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog. Can use /forty-jekyll-theme for local runs
 url: # the base hostname & protocol for your site
 author:
 city: Vancouver
