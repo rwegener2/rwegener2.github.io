@@ -69,7 +69,7 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(medium))">
 		<!-- Box -->
-		<h3>Proficient Technologies</h3>
+		<h3>Top Technologies</h3>
 		<div class="box">
 			<p>Python, Docker, AWS Cloud, git/Github, postgreSQL/postGIS, FastAPI, Bash/shell, Linux, QGIS, GDAL</p>
 		</div>
