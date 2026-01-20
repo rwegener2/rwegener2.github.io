@@ -27,7 +27,7 @@ nav-menu: true
 <p>I believe that all development should be user-focused (because who else could it be for?). I believe that open source software unlocks incredible community potential in both the public and private sectors. I believe that there will always be more to learn. I believe that teams build software systems, not individuals, and being a good team member is just as important as being a good engineer.</p>
 
 <h2 id="content">Where I'd Like to Go Next</h2>
-<p>I’m currently looking for roles in software engineering or data management, with a particular interest in geospatial or earth-related data. Open source involvement is a strong plus. Have a position that seems like a good fit for my skills? Feel free to reach out via LinkedIn or Twitter.</p>
+<p>I’m currently looking for roles in software engineering or data management, with a particular interest in geospatial or earth-related data. Open source involvement is a strong plus.</p>
 
 </div>
 </section>
