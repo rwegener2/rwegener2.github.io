@@ -5,7 +5,7 @@ email:
 description: Geospatial software engineer specializing in earth data <br /> Open source contributor
 repository: rwegener2/rwegener2.github.io
 baseurl: "" # the subpath of your site, e.g. /blog. Can use /forty-jekyll-theme for local runs
-url: # the base hostname & protocol for your site
+url: "https://rwegener2.github.io" # the base hostname & protocol for your site, leave empty for local testing
 author:
 city: Vancouver
 state: BC
