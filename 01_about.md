@@ -24,10 +24,10 @@ nav-menu: true
 	<li>3 years of experience studying or researching climate science</li>
 </ul>
 <p>I’ve designed and built data pipelines, worked on cross-functional technical teams, and grappled with agency-level metadata standards. My roles have been varied, but the theme in each is that I use technology to help people derive actionable insight from earth data.</p>
-<p>I believe that all development should be user-focused (because who else could it be for?). I believe that open source software unlocks incredible community potential in both the public and private sectors. I believe that there will always be more to learn. I believe that teams build software systems, not individuals, and being a good team member is just as important as being a good engineer.</p>
+<p>I believe that all development should be user-focused (because who else could it be for?). I believe that open source software unlocks incredible community potential in both the public and private sectors. I believe that there will always be more to learn. I believe that teams build software systems, not individuals, and that being a good team member is just as important as being a good engineer.</p>
 
 <h2 id="content">Where I'd Like to Go Next</h2>
-<p>I’m currently looking for roles in software engineering or data management, with a particular interest in geospatial or earth-related data. Open source involvement is a strong plus.</p>
+<p>I’m currently looking for roles in software engineering or data management, with a particular interest in geospatial or earth science data. Open source involvement is a strong plus.</p>
 
 </div>
 </section>

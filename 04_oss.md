@@ -35,7 +35,7 @@ nav-menu: true
 				<ul>
 					<li>Virtual presentation at the <a href="https://eo4sdg.org/space-and-sustainability-colloquium/">International Colloquium for Space and Sustainability</a></li>
 					<li>CSCCE’s Open Source Governance and <a href="https://www.cscce.org/trainings/pbk/">Creating Community Playbooks</a></li>
-					<li>(preprint coming late Jan 2026) 10 Simple Rules for Improving the Usability of Earth Observation Datasets</li>
+					<li>10 Simple Rules for Improving the Usability of Earth Observation Mission Datasets (<a href="https://doi.org/10.22541/essoar.176892205.56393151/v1">preprint</a>) </li>
 				</ul>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
